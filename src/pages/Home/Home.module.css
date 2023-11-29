@@ -1,0 +1,31 @@
+
+.title {
+    color: var(--orange);
+    font-size: 5vh;
+    margin-top: 10vh;
+}
+
+.form {
+    background-color: white;
+    width: 60%;
+    padding: 0.5vh;
+    border-radius: 10px;
+    margin-left: 20%;
+}
+
+.inputAdd {
+    padding: 5px;
+    width: 20%;
+    border: 1px solid rgb(197, 197, 197);
+    border-radius: 5px;
+}
+
+.btnAdd {
+    font-size: 2vh;
+    color: white;
+    background: var(--orange);
+    width: 3.3%;
+    padding: 8px;
+    border-radius: 200px;
+    border:none;
+}

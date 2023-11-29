@@ -1,0 +1,32 @@
+:root {
+    --yellow: #f3c034;
+    --orange: #e08c1f;
+    --blue: #277fb3;
+  }
+  
+  body {
+    background-color: rgb(187, 224, 224);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+  }
+  
+  section {
+    margin-top: 20vh;
+  }
+  
+  h1 {
+    font-size: 10vh;
+    color: var(--yellow);
+    -webkit-text-stroke: 1.5px var(--orange);
+  }
+  
+.Button {
+    font-size: 5vh;
+    padding: 5px;
+    padding-left: 45px;
+    padding-right: 45px;
+    color: white;
+    background: var(--blue);
+    border: none;
+    border-radius: 10px;
+  }
